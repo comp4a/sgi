@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(29,44): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(30,45): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(35,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(36,57): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(38,54): warning C4305: 'inicializando': truncamiento de 'double' a 'const GLfloat'
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(252,37): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(23,1): warning C4005: 'PI': redefinición de macro
+C:\Users\edoelas\Desktop\sgi\GL\include\utilidades.h(18): message : vea la definición anterior de 'PI'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(27,53): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(54,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(55,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(65,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(67,32): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(78,36): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(112,36): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(115,34): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(119,36): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(120,36): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(131,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(132,35): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(155,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(167,25): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(189,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(190,12): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(215,52): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(217,19): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(263,18): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(266,18): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\edoelas\Desktop\sgi\prac\game\Source.cpp(278,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  game.vcxproj -> C:\Users\edoelas\Desktop\sgi\prac\proyectos\Debug\game.exe
